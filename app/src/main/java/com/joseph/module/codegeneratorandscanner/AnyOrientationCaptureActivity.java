@@ -10,5 +10,5 @@ import com.journeyapps.barcodescanner.CaptureActivity;
  * setting in AndroidManifest.xml.
  */
 public class AnyOrientationCaptureActivity extends CaptureActivity {
-
+//test
 }
